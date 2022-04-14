@@ -1,0 +1,6 @@
+setup.py
+simuclick.egg-info/PKG-INFO
+simuclick.egg-info/SOURCES.txt
+simuclick.egg-info/dependency_links.txt
+simuclick.egg-info/requires.txt
+simuclick.egg-info/top_level.txt
