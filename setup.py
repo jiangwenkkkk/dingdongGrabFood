@@ -5,7 +5,7 @@ import re
 from setuptools import setup, find_packages
 
 setup(
-    name='simuclick',
+    name='grabfood',
     version="0.1",
     description='',
     url='',
